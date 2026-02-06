@@ -1,0 +1,4 @@
+node_modules/
+anelson_credentials.csv
+eslint.config.js
+notes-api-webserver.pem
